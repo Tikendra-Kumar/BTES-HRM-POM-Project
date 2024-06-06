@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="19" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-07T01:10:01 IST" name="Default suite" finished-at="2024-06-07T01:10:35 IST" duration-ms="33317">
+    <groups>
+    </groups>
+    <test started-at="2024-06-07T01:10:01 IST" name="Default test" finished-at="2024-06-07T01:10:35 IST" duration-ms="33317">
+      <class name="Test.Define_ReportTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:09:53 IST" name="setup" finished-at="2024-06-07T01:10:01 IST" duration-ms="7924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_Enterdata_valid_username_Valid_Password_Click_Loginbtn()[pri:1, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:01 IST" name="Login_Enterdata_valid_username_Valid_Password_Click_Loginbtn" finished-at="2024-06-07T01:10:07 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Enterdata_valid_username_Valid_Password_Click_Loginbtn -->
+        <test-method signature="Define_Report_Move_to_Rrport_Dropdown()[pri:2, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:07 IST" name="Define_Report_Move_to_Rrport_Dropdown" finished-at="2024-06-07T01:10:11 IST" duration-ms="3857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Define_Report_Move_to_Rrport_Dropdown -->
+        <test-method signature="Switch_to_iframe_Access_Select_drop_Id()[pri:3, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:11 IST" name="Switch_to_iframe_Access_Select_drop_Id" finished-at="2024-06-07T01:10:11 IST" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Switch_to_iframe_Access_Select_drop_Id -->
+        <test-method signature="EnterId_Search_for_textBox()[pri:4, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:11 IST" name="EnterId_Search_for_textBox" finished-at="2024-06-07T01:10:11 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterId_Search_for_textBox -->
+        <test-method signature="Click_Search_Button_Access_Id()[pri:5, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:11 IST" name="Click_Search_Button_Access_Id" finished-at="2024-06-07T01:10:13 IST" duration-ms="2030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Search_Button_Access_Id -->
+        <test-method signature="Click_Reset_Button_Clear_Id()[pri:6, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:13 IST" name="Click_Reset_Button_Clear_Id" finished-at="2024-06-07T01:10:13 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Reset_Button_Clear_Id -->
+        <test-method signature="Click_Add_Button_add_new_Text()[pri:7, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:13 IST" name="Click_Add_Button_add_new_Text" finished-at="2024-06-07T01:10:16 IST" duration-ms="2626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Add_Button_add_new_Text -->
+        <test-method signature="Enterdata_Report_Name_TextBox()[pri:8, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:16 IST" name="Enterdata_Report_Name_TextBox" finished-at="2024-06-07T01:10:16 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enterdata_Report_Name_TextBox -->
+        <test-method signature="Click_Check_Box_Button_Acess_SelelctDrop_Select_Click_Employee_PopupButton_Acess_EmployeeName_Enter_EmployeeName_textBox()[pri:9, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:16 IST" name="Click_Check_Box_Button_Acess_SelelctDrop_Select_Click_Employee_PopupButton_Acess_EmployeeName_Enter_EmployeeName_textBox" finished-at="2024-06-07T01:10:18 IST" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Check_Box_Button_Acess_SelelctDrop_Select_Click_Employee_PopupButton_Acess_EmployeeName_Enter_EmployeeName_textBox -->
+        <test-method signature="Click_Employee_AgeGroup_CheckBox_button_And_Select_DropBox_SelectComparison_Enter_age1_TextBox()[pri:10, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:18 IST" name="Click_Employee_AgeGroup_CheckBox_button_And_Select_DropBox_SelectComparison_Enter_age1_TextBox" finished-at="2024-06-07T01:10:21 IST" duration-ms="2767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Employee_AgeGroup_CheckBox_button_And_Select_DropBox_SelectComparison_Enter_age1_TextBox -->
+        <test-method signature="Click_PayGrade_CheckBox_Button_Access_Select_Salary_Grade_drop()[pri:11, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:21 IST" name="Click_PayGrade_CheckBox_Button_Access_Select_Salary_Grade_drop" finished-at="2024-06-07T01:10:23 IST" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_PayGrade_CheckBox_Button_Access_Select_Salary_Grade_drop -->
+        <test-method signature="Click_Education_CheckBox_Button_Access_Select_Education_Type_drop()[pri:12, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:23 IST" name="Click_Education_CheckBox_Button_Access_Select_Education_Type_drop" finished-at="2024-06-07T01:10:24 IST" duration-ms="1317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Education_CheckBox_Button_Access_Select_Education_Type_drop -->
+        <test-method signature="Click_Emloyee_Status_CheckBox_Button_Access_Select_Emloyee_Type_drop()[pri:13, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:24 IST" name="Click_Emloyee_Status_CheckBox_Button_Access_Select_Emloyee_Type_drop" finished-at="2024-06-07T01:10:25 IST" duration-ms="851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Emloyee_Status_CheckBox_Button_Access_Select_Emloyee_Type_drop -->
+        <test-method signature="Click_Service_period_CheckBox_Button_Access_serivce_Comparison_drop()[pri:14, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:25 IST" name="Click_Service_period_CheckBox_Button_Access_serivce_Comparison_drop" finished-at="2024-06-07T01:10:27 IST" duration-ms="2199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Service_period_CheckBox_Button_Access_serivce_Comparison_drop -->
+        <test-method signature="Click_Join_Date_CheckBox_Button_Acess_Join_date_Select_drop()[pri:15, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:27 IST" name="Click_Join_Date_CheckBox_Button_Acess_Join_date_Select_drop" finished-at="2024-06-07T01:10:29 IST" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Join_Date_CheckBox_Button_Acess_Join_date_Select_drop -->
+        <test-method signature="Click_Job_Title_CheckBox_button_Access_Job_Title_Drop()[pri:16, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:29 IST" name="Click_Job_Title_CheckBox_button_Access_Job_Title_Drop" finished-at="2024-06-07T01:10:30 IST" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Job_Title_CheckBox_button_Access_Job_Title_Drop -->
+        <test-method signature="Click_Language_CheckBox_button_Access_Language_Drop()[pri:17, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:30 IST" name="Click_Language_CheckBox_button_Access_Language_Drop" finished-at="2024-06-07T01:10:30 IST" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Language_CheckBox_button_Access_Language_Drop -->
+        <test-method signature="Click_Skill_CheckBox_button_Access_Skill_Drop()[pri:18, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:30 IST" name="Click_Skill_CheckBox_button_Access_Skill_Drop" finished-at="2024-06-07T01:10:31 IST" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_Skill_CheckBox_button_Access_Skill_Drop -->
+        <test-method signature="click_Employee_Savebutton_and_Reset_Button()[pri:19, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:31 IST" name="click_Employee_Savebutton_and_Reset_Button" finished-at="2024-06-07T01:10:35 IST" duration-ms="3864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_Employee_Savebutton_and_Reset_Button -->
+        <test-method signature="Select_UserGroup_and_Click_Assign_Button()[pri:20, instance:Test.Define_ReportTest@13e344d]" started-at="2024-06-07T01:10:35 IST" name="Select_UserGroup_and_Click_Assign_Button" finished-at="2024-06-07T01:10:35 IST" duration-ms="46" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#rightMenu"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57ee98ddef1975c0ddd764c7cefc7441, findElement {using=css selector, value=#rightMenu}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53034}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53034/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 57ee98ddef1975c0ddd764c7cefc7441]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#rightMenu"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57ee98ddef1975c0ddd764c7cefc7441, findElement {using=css selector, value=#rightMenu}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53034}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53034/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 57ee98ddef1975c0ddd764c7cefc7441
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy12.getWrappedElement(Unknown Source)
+at org.openqa.selenium.remote.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:48)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:1104)
+at page.Define_Report_Page.iframe_switchto_F1(Define_Report_Page.java:300)
+at Test.Define_ReportTest.Select_UserGroup_and_Click_Assign_Button(Define_ReportTest.java:128)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_UserGroup_and_Click_Assign_Button -->
+      </class> <!-- Test.Define_ReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
